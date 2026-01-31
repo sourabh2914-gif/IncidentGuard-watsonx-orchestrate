@@ -1,0 +1,15 @@
+User Input
+   ↓
+IncidentGuard Agent
+   - Analyze signals
+   - Classify risk
+   - Explain reasoning
+   ↓
+RiskReview Agent
+   - Validate decision
+   - Confirm actions
+   ↓
+Incident Summary Workflow (Tool)
+   - Generate structured summary
+   ↓
+Final Output
